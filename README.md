@@ -1,4 +1,4 @@
-## SABU [Secure Against Bad USB Key] - Whitestation
+## SABU [Secure Against Bad USB key] - Whitestation
 
 ### 🖥️ V1 [All in one software](https://github.com/sabu-ws/allinone)
 ### 🚧 V2 (new version) [server](https://github.com/sabu-ws/server) and [endpoint](https://github.com/sabu-ws/endpoint)
